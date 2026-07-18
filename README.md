@@ -39,3 +39,7 @@ To have it start automatically at login, add it as a Login Item in System Settin
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+*Disclaimer: this tool was built through AI + human collaboration. It's a personal utility I made for my own use, and I'm keeping this repo as a backup for the future and sharing it with the community in case it's useful to anyone else looking for something simple.*
