@@ -2,7 +2,9 @@
 
 A tiny, native macOS menu bar app that shows your real-time network upload/download speed — no Electron, no third-party dependencies, just Swift + AppKit.
 
-![NetSpeed screenshot](assets/screenshot.png)
+<p align="center">
+  <img src="assets/screenshot.png" alt="NetSpeed screenshot" width="320">
+</p>
 
 ## Features
 
