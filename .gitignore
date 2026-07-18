@@ -1,0 +1,4 @@
+NetSpeed
+*.o
+.build/
+.DS_Store
