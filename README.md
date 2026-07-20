@@ -24,7 +24,7 @@ A tiny, native macOS menu bar app that shows your real-time network upload/downl
 ## Build & run
 
 ```bash
-git clone https://github.com/<your-username>/NetSpeed.git
+git clone https://github.com/jodacame/NetSpeed.git
 cd NetSpeed
 swiftc main.swift -o NetSpeed -framework Cocoa -O
 ./NetSpeed
