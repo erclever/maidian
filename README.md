@@ -29,7 +29,7 @@
 需要 macOS、Apple Command Line Tools（或相应 Xcode 工具链）、Swift 和系统 SDK；没有第三方运行依赖。命令在仓库目录执行：
 
 ```sh
-git clone https://github.com/Hyperion424/maidian.git
+git clone https://github.com/erclever/maidian.git
 cd maidian
 ./build.sh
 open build/MacLiteMonitor.app
