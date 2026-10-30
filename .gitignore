@@ -2,3 +2,11 @@ NetSpeed
 *.o
 .build/
 .DS_Store
+
+# Build outputs, runtime captures and machine-specific notes
+/build/
+/使用说明.md
+/开发状态.md
+/完整性测试_*.md
+/分享包验证记录.md
+/脉点_分享包记录.md
